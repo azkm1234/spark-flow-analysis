@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1522139411039,"sparkVersion":"2.2.1","uid":"strIdx_d8e04792ad28","paramMap":{"outputCol":"land_index","handleInvalid":"error","inputCol":"land"}}
